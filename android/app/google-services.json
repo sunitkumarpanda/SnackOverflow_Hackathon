@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "944670323779",
+    "project_id": "dietrao-418d5",
+    "storage_bucket": "dietrao-418d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670323779:android:bf2ac383b750e8184390f6",
+        "android_client_info": {
+          "package_name": "com.example.dietrao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944670323779-mfrvaq9tmfj4ucsfgs6hjt0tdp6h5qmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dietrao",
+            "certificate_hash": "f04f2132aa3b5d8c381107d68e0055fa22ad6b3c"
+          }
+        },
+        {
+          "client_id": "944670323779-alhiekia40jl61mst2d8ral013o4nas3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPErpQqMqDC9ZJcoww2iw8bBvRISh2BVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944670323779-alhiekia40jl61mst2d8ral013o4nas3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944670323779-v2vkujs9jguqf4rs9jl3ou5v1edo835k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dietrao"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670323779:android:e2c4fc2e74c85b2e4390f6",
+        "android_client_info": {
+          "package_name": "com.example.healthplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944670323779-alhiekia40jl61mst2d8ral013o4nas3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPErpQqMqDC9ZJcoww2iw8bBvRISh2BVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944670323779-alhiekia40jl61mst2d8ral013o4nas3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944670323779-v2vkujs9jguqf4rs9jl3ou5v1edo835k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dietrao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
